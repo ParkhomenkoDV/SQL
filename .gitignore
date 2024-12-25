@@ -1,1 +1,7 @@
+.idea
+venv
+
+*.pdf
 *.mp4
+
+dbs/
