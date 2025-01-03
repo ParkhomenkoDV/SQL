@@ -1,3 +1,4 @@
+.codegpt
 .idea
 venv
 
@@ -5,3 +6,4 @@ venv
 *.mp4
 
 dbs/
+.codegpt
